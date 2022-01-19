@@ -1,0 +1,7 @@
+package com.shopify.ims.repository;
+
+import com.shopify.ims.model.Group;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface GroupRepository  extends JpaRepository<Group, Long> {
+}
