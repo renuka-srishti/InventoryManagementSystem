@@ -48,7 +48,7 @@ Front-end uses a combination of HTML, CSS, Bootstrap, JQuery and AJAX for its fu
 ## Running the application locally
 - Install PostgreSQL.
 - Create a database and update the details in `application.properties` file. For starter, you can create a db with `imsdb` name.
-- The easiest way to run this project is to download [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) and open this project by using `File -> Open -> ims`. It will take a couple of minutes to download all the dependencies using maven. Once they are downloaded run `ImsApplication`.
+- The easiest way to run this project is to download [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) and open this project by using `File -> Open -> InventoryManagementSystem`. It will take a couple of minutes to download all the dependencies using maven. Once they are downloaded run `ImsApplication`.
 
 **Project URL:** [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
 
